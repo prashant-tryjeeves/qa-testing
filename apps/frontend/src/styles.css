@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.center {
+  margin: auto;
+  width: 90%;
+  border: 0px solid green;
+  padding: 5px;
+}
+
+.form-element {
+  margin: 1em;
+}
+
+.card {
+  margin: 1em;
+}
